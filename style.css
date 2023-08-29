@@ -11,8 +11,9 @@ body
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg , #00feba , #5b548a);
-    color: #fff;
+    /* background: linear-gradient(135deg , #00feba , #5b548a); */
+    /* background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%); */
+    background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);    color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
     padding: 40px 35px;
